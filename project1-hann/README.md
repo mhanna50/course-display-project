@@ -12,7 +12,7 @@ This project displays a list of courses in the form of a Computer Science advisi
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/mhanna50/project1-hann-UI.git
-   cd course-display-project
+   cd project1-hann
 
 Install dependencies:
 npm install
